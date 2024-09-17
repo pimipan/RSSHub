@@ -4824,6 +4824,9 @@
   "/pixiv/user/:id": [
     "DIYgod"
   ],
+  "/pixivision/:lang/:category?": [
+    "SnowAgar25"
+  ],
   "/piyao/jrpy": [
     "Fatpandac"
   ],
@@ -6145,12 +6148,15 @@
     "Fatpandac"
   ],
   "/tju/cic/:type?": [
+    "AlanZeng423",
     "SuperPung"
   ],
   "/tju/news/:type?": [
+    "AlanZeng423",
     "SuperPung"
   ],
   "/tju/oaa/:type?": [
+    "AlanZeng423",
     "AmosChenYQ",
     "SuperPung"
   ],
